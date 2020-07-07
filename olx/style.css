@@ -1,0 +1,130 @@
+.back
+{
+
+background-color: black;	
+}
+h1
+{
+	color: white;
+
+}
+#container
+{
+	text-align: center;
+}
+
+.column {
+  float: left;
+  width: 50%;
+  padding: 10px;
+  height: 300%; /* Should be removed. Only for demonstration */
+}
+.con2
+{
+	margin-top: 20px;
+}
+.con9
+{
+	color:black;
+}
+
+
+
+.con1
+{
+
+	margin-top: 50px;
+
+}
+
+
+.con7
+{
+	float:left;
+	width: 30%;
+ 	height: 50%; 
+ 	padding:10px;
+	border:1px solid black;
+	margin-left: 30px;
+}
+.con4
+{
+	float: right;
+  width: 60%;
+  padding: 10px;
+  height: 300%; 
+	padding-top: 150px;
+}
+.p1
+{
+	padding-left: 150px;
+margin-top: 50px;
+color: gray;
+}
+
+.p2
+{
+	padding-left: 60px;
+color: white;
+padding-top: 20px;
+font-size: 20px;
+}
+.p3
+{
+	padding-left: 50px;
+	padding-top: 20px;
+}
+.p4
+{
+float: right;
+	padding-top: 30px;
+	color:white;
+
+}
+.con6
+{
+	
+
+float: left;
+  width: 30%;
+  padding: 10px;
+  height: 50%; 
+  border:1px solid black;
+margin-left: 30px;
+}
+.p5
+{
+	color:black;
+	float: right;
+	padding-top: 20px;
+
+}
+.p6
+{
+	color:black;
+	font-size: 30px;
+
+	
+}
+.row
+{
+background-color: purple;
+
+}
+a
+{
+	color:white;
+
+}
+span
+{
+	color: black;
+	font-size: 20px;
+
+}
+#container1
+{
+	padding-left: 150px;
+
+
+}
